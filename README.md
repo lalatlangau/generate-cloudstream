@@ -245,53 +245,6 @@ Lihat fail `config.json` yang dijana untuk menyemak (debug) selector.
 
 ---
 
-## 🎓 Laluan Pembelajaran
-
-### Tahap Pemula
-
-1. ✅ Baca QUICKSTART.md
-2. ✅ Jana 1 plugin menggunakan mod interaktif
-3. ✅ Muat naik ke GitHub
-4. ✅ Uji di dalam aplikasi Cloudstream
-
-### Tahap Pertengahan
-
-1. ✅ Jana menggunakan mod baris arahan (command line)
-2. ✅ Edit selector dalam fail .kt
-3. ✅ Kustomisasi templat
-
-### Tahap Lanjutan
-
-1. ✅ Jana banyak plugin secara kelompok (batch)
-2. ✅ Bina templat baru
-3. ✅ Sumbangkan templat kepada komuniti
-
----
-
-## 📝 Senarai Semak (Checklist)
-
-Sebelum muat naik ke GitHub:
-
-* [ ] Jana plugin menggunakan skrip
-* [ ] Semak semula fail `.kt` (periksa selector)
-* [ ] Uji struktur dengan *inspect element* pada pelayar web
-* [ ] Kemas kini `repo.json` dengan nama pengguna GitHub anda
-* [ ] Bina cawangan (branch) `builds` di GitHub
-* [ ] Uji pemasangan di Cloudstream
-
----
-
-## 🤝 Menyumbang (Contributing)
-
-Mempunyai templat baru? Laman web dengan struktur unik?
-
-1. Fork repositori ini
-2. Tambah templat dalam `WEBSITE_TEMPLATES`
-3. Uji dengan laman web berkenaan
-4. Hantar PR (Pull Request)
-
----
-
 ## 📞 Sokongan
 
 Jika terdapat masalah:
@@ -305,7 +258,7 @@ Jika terdapat masalah:
 
 ## 📄 Lesen
 
-Bebas untuk digunakan dan diubah suai.
+HAK CIPTA TERPELIHARA.
 
 ---
 
@@ -321,10 +274,10 @@ Bebas untuk digunakan dan diubah suai.
 
 ---
 
-**Dibuat dengan ❤️ untuk Komuniti Cloudstream**
+**Dibuat dengan ❤️ oleh MICROTECH.STORE (MTS)**
 
 🎬 Selamat Menstrim! 🍿
 
 ---
 
-Adakah anda ingin saya membantu menjelaskan mana-mana bahagian teknikal dalam kod Python tersebut atau membantu anda menetapkan fail `batch_config.json`?
+
