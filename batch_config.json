@@ -1,0 +1,22 @@
+[
+  {
+    "domain": "https://hidekielectronics.com",
+    "plugin_name": "DutaMovie",
+    "template": "wordpress_movie"
+  },
+  {
+    "domain": "https://lk21official.net",
+    "plugin_name": "LK21",
+    "template": "lk21_clone"
+  },
+  {
+    "domain": "https://rebahinz.com",
+    "plugin_name": "Rebahin",
+    "template": "wordpress_movie"
+  },
+  {
+    "domain": "https://filmapik.wiki",
+    "plugin_name": "FilmApik",
+    "template": "custom_streaming"
+  }
+]
